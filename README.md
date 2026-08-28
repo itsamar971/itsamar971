@@ -1,14 +1,7 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Amarnadh Reddy - Profile Hero Banner" src="./dark.svg" width="100%">
-  </picture>
-</div>
+  <h1>Hi, I'm Amarnadh Reddy 👋</h1>
+  <p>Full Stack & Mobile Architect • DevOps & Cloud Practitioner • UI/UX Designer</p>
 
-<br/>
-
-<div align="center">
   <a href="https://www.amarnadhreddy.site/">
     <img src="https://img.shields.io/badge/Portfolio-amarnadhreddy.site-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -28,7 +21,7 @@
 | **Backend** | `Node.js` `Spring Boot` `GraphQL` `REST APIs` |
 | **Mobile** | `Android` `Kotlin` `Flutter` `React Native` |
 | **Databases** | `PostgreSQL` `MySQL` `MongoDB` `Redis` `CockroachDB` |
-| **Cloud & DevOps**| `AWS` `GCP` `Azure` `Docker` `Kubernetes` `Firebase` `Heroku` |
+| **Cloud & DevOps** | `AWS` `GCP` `Azure` `Docker` `Kubernetes` `Firebase` `Heroku` |
 | **Data Visualization** | `D3.js` `Chart.js` `CanvasJS` `Kibana` `Grafana` |
 | **UI/UX & Design** | `Figma` `Framer` `Adobe XD` `Adobe Illustrator` `Sketch` |
 
