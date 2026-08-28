@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✦ AMARNADH REDDY ✦
-### 🎨 **SENIOR PRODUCT DESIGNER & DESIGN TECHNOLOGIST**
-#### ⚡ Bridging High-Fidelity UI/UX & Full-Stack Systems Architecture ⚡
+# AMARNADH REDDY
+### **PRODUCT DESIGNER & DESIGN TECHNOLOGIST**
+#### Bridging High-Fidelity UI/UX & Full-Stack Systems Architecture
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 🎨 **01 // UI/UX & DESIGN CRAFT (PRIMARY)**
+### **01 // UI/UX & DESIGN CRAFT (PRIMARY)**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma,xd,illustrator,sketch,framer" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 **02 // DATA VISUALIZATION & CREATIVE CODING**
+### **02 // DATA VISUALIZATION & CREATIVE CODING**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=d3,threejs,grafana" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 💻 **03 // FRONTEND ARCHITECTURE**
+### **03 // FRONTEND ARCHITECTURE**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,astro,nuxtjs,tailwind,html,css,js,ts" />
@@ -56,7 +56,7 @@
 
 ---
 
-### 📱 **04 // MOBILE APPLICATION ENGINEERING**
+### **04 // MOBILE APPLICATION ENGINEERING**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,react" />
@@ -68,7 +68,7 @@
 
 ---
 
-### ⚙️ **05 // CORE LANGUAGES & BACKEND**
+### **05 // CORE LANGUAGES & BACKEND**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,ruby,nodejs,spring,graphql" />
@@ -81,7 +81,7 @@
 
 ---
 
-### 🗄️ **06 // DATABASES & CLOUD/DEVOPS**
+### **06 // DATABASES & CLOUD/DEVOPS**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,gcp,azure,docker,kubernetes,firebase,heroku" />
@@ -95,5 +95,5 @@
 ---
 
 <div align="center">
-  <b>✦ CRAFTED WITH NEO-BRUTALIST PRECISION • DESIGNED & CODED BY <a href="https://github.com/itsamar971">@itsamar971</a> ✦</b>
+  <b>CRAFTED WITH NEO-BRUTALIST PRECISION • DESIGNED & CODED BY <a href="https://github.com/itsamar971">@itsamar971</a></b>
 </div>
